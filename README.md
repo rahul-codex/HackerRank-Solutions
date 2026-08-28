@@ -25,7 +25,8 @@ A collection of my Data Structures and Algorithms problem-solving practice on Ha
 
 ## 📁 Repository Structure
 
-HackerRank-DSA-Solutions/
+```text
+HackerRank-Solutions/
 │
 ├── C/
 │   ├── Easy/
@@ -41,6 +42,8 @@ HackerRank-DSA-Solutions/
     ├── Easy/
     ├── Medium/
     └── Hard/
+```
+
 
 ## 📝 Problem Documentation
 
